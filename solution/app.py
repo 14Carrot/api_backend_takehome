@@ -95,7 +95,7 @@ def select_route(table):
         return jsonify(records), 200
     # case where an exception was caught
     except:
-        return "Record selectin was unsuccessful",500
+        return "Record selection was unsuccessful",500
 
 
 
