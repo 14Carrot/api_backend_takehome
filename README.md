@@ -2,7 +2,7 @@
 
 For a clear diagram of the database schema, please refer to the following document:
 
-resources/database.png)
+resources/database.png
 
 
 
